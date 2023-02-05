@@ -1,0 +1,21 @@
+html.light-mode {
+  --background: #FFF;
+  --on-background: #121212;
+  --subtitle: #AAA;
+  --divider: #EAEAEA;
+  --box: #FAFAFA;
+  --success: #4BEF3D;
+  --error: #FF4D4D;
+  --on-alert: #FFF;
+}
+
+html.dark-mode {
+  --background: #121212;
+  --on-background: #FFF;
+  --subtitle: #676767;
+  --divider: #2E2E2E;
+  --box: #000;
+  --success: #78FFA8;
+  --error: #FF755B;
+  --on-alert: #121212;
+}
