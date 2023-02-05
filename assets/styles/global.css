@@ -11,3 +11,26 @@ html {
   scroll-behavior: smooth;
   transition: background-color 1s;
 }
+
+/* Add Fonts */
+html[lang = en] {
+  direction: ltr;
+  font-family: Poppins, Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+html[lang = en] body, html[lang = en] input, html[lang = en] select, html[lang = en] textarea, html[lang = en] button {
+  font-family: Poppins, Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+html[lang = fa] {
+  direction: rtl;
+  font-family: "Iran Yekan", Tahoma, -apple-system, sans-serif;
+}
+
+html[lang = fa] body, html[lang = fa] input, html[lang = fa] select, html[lang = fa] textarea, html[lang = fa] button {
+  font-family: "Iran Yekan", Tahoma, -apple-system, sans-serif;
+}
+
+body {
+  font-size: 6rem; /* minimum font size */
+}

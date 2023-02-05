@@ -2,10 +2,10 @@
   
 </template>
 
-<script setup>
-
+<script setup lang="ts">
+definePageMeta({ layout: "home" });
 </script>
 
-<style>
+<style lang="scss">
 
 </style>
