@@ -1,5 +1,8 @@
 <template>
-  <NuxtPage />
+  <div class="home_layout">
+    <HeaderMain />
+    <NuxtPage />
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -13,6 +16,10 @@ useHead({
 });
 </script>
 
-<style>
-
+<style scopped lang="scss">
+.home_layout {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
 </style>

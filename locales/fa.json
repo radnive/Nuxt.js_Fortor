@@ -1,5 +1,19 @@
 {
   "locale": "fa",
   "app.name": "فرتور",
-  "app.title": "فرتور - منبع اینترنت برای تصاویر بصری"
+  "app.title": "فرتور - منبع اینترنت برای تصاویر بصری",
+
+  "header.menu.title": "منو",
+  "header.menu.home": "خانه",
+  "header.menu.who_we_are": "ما کی هستیم؟",
+  "header.menu.donate": "حمایت مالی",
+  "header.menu.contact_us": "ارتباط با ما",
+
+  "header.settings.title": "تنظیمات",
+  "header.settings.light": "روشن",
+  "header.settings.system": "سیستم",
+  "header.settings.dark": "تاریک",
+  "header.settings.lang": "فارسی",
+
+  "message.loading": "بارگذاری"
 }

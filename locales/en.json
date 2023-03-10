@@ -1,5 +1,19 @@
 {
   "locale": "en",
   "app.name": "Fortor",
-  "app.title": "Fortor - The internet’s source for visuals"
+  "app.title": "Fortor - The internet’s source for visuals",
+
+  "header.menu.title": "Menu",
+  "header.menu.home": "Home",
+  "header.menu.who_we_are": "Who we are?",
+  "header.menu.donate": "Donate",
+  "header.menu.contact_us": "Contact us",
+
+  "header.settings.title": "Settings",
+  "header.settings.light": "Light",
+  "header.settings.system": "System",
+  "header.settings.dark": "Dark",
+  "header.settings.lang": "En",
+
+  "message.loading": "Loading"
 }
